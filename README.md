@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Enemy AI Demo](gifs/RPG_Game.gif)
+![RPG Demo](gifs/RPG_Game.gif)
+![RPG Demo](gifs/AkitaRun.gif)
+![RPG Demo](gifs/MittenMayhem.gif)([https://xillo11.itch.io/mitten-mayhem](url)).
+
+▶ **[Watch Gameplay Video](https://www.youtube.com/watch?v=VIDEO_ID)**
